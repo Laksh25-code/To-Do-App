@@ -6,6 +6,7 @@ A simple and interactive **To-Do List Web App** built using **HTML, CSS, and Jav
 ---
 
 ## ✨ Features
+
 - ✅ Add new tasks instantly
 - 📌 Separate sections for **Pending Tasks** and **Completed Tasks**
 - 🖱️ Simple, clean, and responsive UI
@@ -14,6 +15,7 @@ A simple and interactive **To-Do List Web App** built using **HTML, CSS, and Jav
 ---
 
 ## 🛠️ Tech Stack
+
 - **HTML** – For structuring the app
 - **CSS** – For styling and layout
 - **JavaScript** – For dynamic functionality
@@ -21,6 +23,7 @@ A simple and interactive **To-Do List Web App** built using **HTML, CSS, and Jav
 ---
 
 ## 📂 Project Structure
+
 ```
 ├── index.html   # Main HTML file
 ├── index.css    # Styles for the app
@@ -30,6 +33,7 @@ A simple and interactive **To-Do List Web App** built using **HTML, CSS, and Jav
 ---
 
 ## 📌 Future Improvements
+
 - Add **Local Storage** to save tasks
 - Add **Edit Task** functionality
 - Add **Dark Mode** support
@@ -38,4 +42,5 @@ A simple and interactive **To-Do List Web App** built using **HTML, CSS, and Jav
 ---
 
 ## 📄 License
+
 This project is **free to use** and open-sourced under the MIT License.
